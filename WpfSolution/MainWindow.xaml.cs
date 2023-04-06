@@ -23,6 +23,7 @@ namespace WpfSolution
         public MainWindow()
         {
             InitializeComponent();
+            MessageBox.Show("Я работаю!");
         }
     }
 }
